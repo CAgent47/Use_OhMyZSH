@@ -235,4 +235,4 @@ Made with 🐚 by **CAgent_47**
 
 ---
 
-![banner](Banner.png)
+![Banner](banner.png)
