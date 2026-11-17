@@ -114,4 +114,4 @@ Made with ❤️ by [CAgent47](https://github.com/CAgent47)
 
 </div>
 
-[banner](banner.png)
+![banner](banner.png)
