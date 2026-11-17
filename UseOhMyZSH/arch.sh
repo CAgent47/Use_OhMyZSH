@@ -19,5 +19,5 @@ if [ $defaultShell == "y" ] || [ $defaultShell == "Y" ]; then
 	chsh -s $(which zsh)
 	echo $SHELL
 else
-	exit 1
+	exit 0
 fi
