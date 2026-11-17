@@ -113,3 +113,5 @@ Found a bug or want to add another distro (openSUSE, Alpine, ...)? Open an issue
 Made with ❤️ by [CAgent47](https://github.com/CAgent47)
 
 </div>
+
+[banner](banner.png)
