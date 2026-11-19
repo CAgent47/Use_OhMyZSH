@@ -12,6 +12,8 @@
 </div>
 
 ---
+**Creating Automation For Detect your os for install OhMyZSH**
+---
 
 ## ✨ What is this?
 
